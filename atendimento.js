@@ -1,6 +1,6 @@
 const $ = (selector, root=document) => root.querySelector(selector);
 const esc = value => String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const families={sli:{nome:'Convencionais · SLI',descricao:'Partida e sistemas elétricos do veículo. Confira a aplicação antes de escolher.'},efb:{nome:'EFB · Start-Stop',descricao:'Tecnologia reforçada para aplicações específicas. Verifique a recomendação do fabricante.'},agm:{nome:'AGM',descricao:'Aplicações de maior exigência elétrica. Confira a especificação do fabricante antes da troca.'},estacionaria:{nome:'Estacionárias · Freedom',descricao:'Energia para nobreaks, segurança e outras aplicações estacionárias. Consulte a aplicação com nossa equipe.'},moto:{nome:'Motos · Haizer',descricao:'Baterias para motocicletas e outras aplicações específicas. Consulte a aplicação com nossa equipe.'}};
+const families={sli:{nome:'Convencionais · SLI',descricao:'Partida e sistemas elétricos do veículo. Confira a aplicação antes de escolher.'},efb:{nome:'EFB · Start-Stop',descricao:'Tecnologia reforçada para aplicações específicas. Verifique a recomendação do fabricante.'},agm:{nome:'AGM',descricao:'Aplicações de maior exigência elétrica. Confira a especificação do fabricante antes da troca.'},estacionaria:{nome:'Estacionárias',descricao:'Energia para nobreaks, segurança e outras aplicações estacionárias. Consulte a aplicação com nossa equipe.'},moto:{nome:'Motos · Haizer',descricao:'Baterias para motocicletas e outras aplicações específicas. Consulte a aplicação com nossa equipe.'}};
 families.eletrica={nome:'Mobilidade elétrica',descricao:'Aplicação a confirmar.'};families.tracionaria={nome:'Tracionária',descricao:'Uso industrial; aplicação a confirmar.'};
 const typeNames={leve:'Carros e utilitários',moto:'Motos e mobilidade',pesada:'Linha pesada',estacionaria:'Uso estacionário',industrial:'Industrial'};
 const normalize = value => String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
@@ -32,7 +32,7 @@ function renderDialog(){
   let title,description,body,actions;
   if(welcome){
     title='Seu carro parou?';description='Está com urgência para comprar uma bateria? Envie o endereço e os dados do veículo para um vendedor.';
-    body='<div class="welcome-actions"><button type="button" class="primary-btn whatsapp-cta" data-urgent>Sim, preciso com urgência ↗</button><a class="secondary-btn" href="produtos.html">Sem urgência, ver produtos</a></div>';
+    body='<div class="welcome-actions"><button type="button" class="primary-btn whatsapp-cta" data-urgent>Sim, preciso com urgência ↗</button><button type="button" class="secondary-btn" id="browse-home">Sem urgência, conhecer o site</button></div>';
   }else if(urgent&&!vehicle){
     title='Onde você está?';description='Conte onde o veículo está parado.';
     body=`<p class="step-count">1 DE 2 · ENDEREÇO</p><div class="form-grid">${select('Cidade','city',[['','Selecione'],['São José dos Pinhais','São José dos Pinhais'],['Curitiba','Curitiba'],['Outra cidade','Outra cidade']],state.city)}${input('Endereço, número e bairro','address',state.address,'autocomplete="street-address" maxlength="220" placeholder="Rua, número e bairro"')}${input('Ponto de referência / outra cidade (opcional)','reference',state.reference,'maxlength="150"',false)}</div>`;
@@ -47,6 +47,7 @@ function renderDialog(){
   }
   $('#flow-content').innerHTML=`<h2 id="flow-title" tabindex="-1">${title}</h2><p class="intro">${esc(description)}</p><form id="request-form">${body}${actions?`<div class="form-actions">${actions}</div>`:''}</form>`;
   $('#request-form').onsubmit=e=>{e.preventDefault();remember();if(urgent&&!vehicle){state.stage='vehicle';renderDialog()}else if(vehicle){window.open(wa(shortMessage()),'_blank','noopener,noreferrer')}};
+  $('#browse-home')?.addEventListener('click',()=>{closeDialog();window.scrollTo({top:0,behavior:'smooth'})});
   $('#need-help')?.addEventListener('click',()=>{state.stage='vehicle';renderDialog()});
   $('#back-request')?.addEventListener('click',()=>{remember();state.stage=urgent?'address':'confirm';renderDialog()});
   $('[name="brand"]')?.addEventListener('change',e=>{const other=e.target.value==='Outra';$('#other-brand').hidden=!other;$('[name="brandOther"]').required=other});

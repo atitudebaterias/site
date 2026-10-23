@@ -1,4 +1,4 @@
-// Importado das tabelas Atitude; nenhum preço exportado.
+// Catálogo sem preços. Fotos do acervo WG; categorias conferidas na tabela corrigida.
 window.LOJA = {
   "nome": "Atitude Baterias",
   "whatsapp": "5541992046580",
@@ -17,9 +17,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "CATÁLOGO BATERIAS EXCELL 2024.pdf, página 4",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -33,9 +33,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -49,9 +49,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "CATÁLOGO BATERIAS EXCELL 2024.pdf, página 4",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -65,9 +65,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "CATÁLOGO BATERIAS EXCELL 2024.pdf, página 4",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -81,9 +81,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -97,9 +97,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -113,9 +113,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 18,
-      "imagem": "assets/catalogo/excell-evolution.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -129,9 +129,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -145,9 +145,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -161,9 +161,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -177,9 +177,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 6,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-evolution.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -193,9 +193,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -209,9 +209,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -225,9 +225,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -241,9 +241,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 6,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -257,9 +257,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 6,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -273,9 +273,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 6,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-pesada-original.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -289,9 +289,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-premium.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -305,9 +305,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-premium.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -321,9 +321,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "CATÁLOGO BATERIAS EXCELL 2024.pdf, página 4",
+      "imagem": "assets/catalogo/wg-excell-premium.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -337,9 +337,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-premium.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -353,9 +353,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-premium.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -369,9 +369,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-efb.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -385,9 +385,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "CATÁLOGO BATERIAS EXCELL 2024.pdf, página 4",
+      "imagem": "assets/catalogo/wg-excell-efb.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -401,9 +401,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/excell-premium.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-excell-efb.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo WG / Excell",
       "aplicacoes": []
     },
     {
@@ -417,9 +417,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/flexpower.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "ficha tecnica flexpower - FAC.pdf, página 1",
+      "imagem": "assets/catalogo/wg-flexpower-leve.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -433,9 +433,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/flexpower.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "ficha tecnica flexpower - FAC.pdf, página 1",
+      "imagem": "assets/catalogo/wg-flexpower-leve.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -449,9 +449,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/flexpower.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-flexpower-leve.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -465,9 +465,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/flexpower.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-flexpower-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -481,9 +481,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/catalogo/flexpower.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-flexpower-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -673,9 +673,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 15,
-      "imagem": "assets/catalogo/acdelco-silver.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -689,9 +689,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 15,
-      "imagem": "assets/catalogo/acdelco-silver.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -705,9 +705,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 15,
-      "imagem": "assets/catalogo/acdelco-silver.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -721,9 +721,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 15,
-      "imagem": "assets/catalogo/acdelco-silver.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -737,9 +737,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 15,
-      "imagem": "assets/catalogo/acdelco-silver.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-pesada.png",
+      "imagemLegenda": "Foto de referência da linha; confira o modelo",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -897,9 +897,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/acdelco-efb.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-agm.png",
+      "imagemLegenda": "Embalagem de referência da linha AGM",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -913,9 +913,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/acdelco-efb.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-agm.png",
+      "imagemLegenda": "Embalagem de referência da linha AGM",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -929,9 +929,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/acdelco-efb.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-agm.png",
+      "imagemLegenda": "Embalagem de referência da linha AGM",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -945,9 +945,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/acdelco-efb.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-agm.png",
+      "imagemLegenda": "Embalagem de referência da linha AGM",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -961,9 +961,9 @@ window.LOJA = {
       "ah": null,
       "preco": null,
       "garantiaMeses": 24,
-      "imagem": "assets/catalogo/acdelco-efb.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-acdelco-agm.png",
+      "imagemLegenda": "Embalagem de referência da linha AGM",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": []
     },
     {
@@ -1462,16 +1462,18 @@ window.LOJA = {
       "nome": "HZR12N7",
       "marca": "Haizer",
       "linha": "Haizer",
-      "familia": "moto",
-      "categoria": "moto",
+      "familia": "estacionaria",
+      "categoria": "estacionaria",
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/moto.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-haizer-hzr12n7.jpg",
+      "imagemLegenda": "Foto do modelo fornecida pela WG",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": [
-        "Motos"
+        "Nobreaks",
+        "Segurança",
+        "Telecomunicações"
       ]
     },
     {
@@ -1480,16 +1482,18 @@ window.LOJA = {
       "nome": "HZR12N9",
       "marca": "Haizer",
       "linha": "Haizer",
-      "familia": "moto",
-      "categoria": "moto",
+      "familia": "estacionaria",
+      "categoria": "estacionaria",
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/moto.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-haizer-hzr12n9.png",
+      "imagemLegenda": "Foto do modelo fornecida pela WG",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": [
-        "Motos"
+        "Nobreaks",
+        "Segurança",
+        "Telecomunicações"
       ]
     },
     {
@@ -1498,16 +1502,18 @@ window.LOJA = {
       "nome": "HZR12N12",
       "marca": "Haizer",
       "linha": "Haizer",
-      "familia": "moto",
-      "categoria": "moto",
+      "familia": "estacionaria",
+      "categoria": "estacionaria",
       "ah": null,
       "preco": null,
       "garantiaMeses": 12,
-      "imagem": "assets/moto.webp",
-      "imagemLegenda": "Foto ilustrativa da marca; formato pode variar",
-      "imagemFonte": "Imagem de referência da marca no acervo local",
+      "imagem": "assets/catalogo/wg-haizer-hzr12n12.png",
+      "imagemLegenda": "Foto do modelo fornecida pela WG",
+      "imagemFonte": "Acervo de imagens fornecido pela WG",
       "aplicacoes": [
-        "Motos"
+        "Nobreaks",
+        "Segurança",
+        "Telecomunicações"
       ]
     },
     {
